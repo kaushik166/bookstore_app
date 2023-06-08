@@ -1,3 +1,4 @@
+import 'package:bookstore/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: AnimationDemo(),
+      home: SplashScreen(),
     );
   }
 }
