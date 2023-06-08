@@ -1,4 +1,4 @@
-#Tue May 30 10:15:05 IST 2023
-base.0=/Users/kaushikkachhadiya/StudioProjects/bookstore/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Jun 08 15:30:05 IST 2023
+base.0=/Users/kaushikkachhadiya/StudioProjects/bookstore_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

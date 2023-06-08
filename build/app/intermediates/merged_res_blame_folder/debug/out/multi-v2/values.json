@@ -4,7 +4,7 @@
             "outputFile": "com.example.bookstore.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/kaushikkachhadiya/StudioProjects/bookstore/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/kaushikkachhadiya/StudioProjects/bookstore_app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
